@@ -45,6 +45,7 @@ let compScore=0;
 
     const playGame=(userChoice)=>{
         // game function
+        // same
        
         //Generate computer choice =>modular
         const compChoice=genComputerChoice();
